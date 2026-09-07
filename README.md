@@ -27,7 +27,7 @@ just NumPy, a Hebbian update rule, and Matplotlib.
 
 ## Try it live
 
-🔗 *[add your deployed Streamlit Cloud link here once it's live]*
+🔗 https://fastweightdemo-ewcquqnhfbrh3qrxtkusda.streamlit.app/
 
 ## Running it locally
 
@@ -37,8 +37,6 @@ cd <this-repo-folder>
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-It'll open at `http://localhost:8501`.
 
 ## How to use it
 
@@ -86,5 +84,3 @@ not). Watching both happen on the same heatmap made that obvious.
 
 ## Feedback
 
-If you spot a bug or have an idea for extending this, feel free to open an
-issue or a PR.
